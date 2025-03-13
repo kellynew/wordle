@@ -51,7 +51,9 @@
 	Open the settings menu to see some of the additional features.
 	<br />
 	Written with Svelte, in Typescript by
-	<a href="https://github.com/MikhaD" target="_blank" rel="noreferrer">MikhaD</a>.
+	<a href="https://github.com/MikhaD" target="_blank" rel="noreferrer">MikhaD</a>, 
+	forked by
+	<a href="https://github.com/kellynew" target="_blank" rel="noreferrer">kellynew</a>.
 </div>
 
 <style lang="scss">
